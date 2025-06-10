@@ -33,7 +33,7 @@ This is a Python-based GUI application that allows users to visualize the **spec
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/spectrogram-viewer.git
+git clone https://github.com/Estaheri7/spectrogram-viewer.git
 cd spectrogram-viewer
 ```
 
